@@ -86,25 +86,25 @@ The project includes an interactive Streamlit web application for website traffi
 
 ### 🏠 Traffic Overview
 
-![Traffic Overview](screenshots/dashboard.png)
+![Traffic Overview](screenshots/dashboard.PNG)
 
 ---
 
 ### 📈 Traffic Analysis
 
-![Traffic Analysis](screenshots/traffic_analysis.png)
+![Traffic Analysis](screenshots/traffic_analysis.PNG)
 
 ---
 
 ### 🤖 Model Performance
 
-![Model Performance](screenshots/comparison.png)
+![Model Performance](screenshots/comparison.PNG)
 
 ---
 
 ### 🔮 Future Traffic Forecast
 
-![Future Forecast](screenshots/futurescope.png)
+![Future Forecast](screenshots/futurescope.PNG)
 
 ---
 
